@@ -11,6 +11,6 @@
 int main () {
 	
 	printf("Brett Berg and Markus Kittlaus");
-	return 0
+	return 0;
 	
 }
