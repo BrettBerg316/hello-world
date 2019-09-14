@@ -10,7 +10,7 @@
 
 int main () {
 	
-	printf("Brett Berg and Markus Kittlaus");
+	printf("Hello from Markus Kittlaus and Brett Berg");
 	return 0;
 	
 }
